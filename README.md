@@ -41,17 +41,32 @@ Layout developed by [Name](https://www.instagram.com/urlName/)
 
 ## 👏 Learning and more Implementations
 
-Describe what you learned and implemented in the project.
+Describe what you learned and implemented in the project. -->
 
 ## 💡 Technologies Used
 
-- [x] [Vite](https://vitejs.dev/)
-- [x] [Expo](https://docs.expo.dev/)
-- [x] [React](https://reactjs.org/) `version: "18.2.0"`
-- [x] [React Native](https://reactnative.dev/) `version: "0.71.3"`
+### Back-end
+
+- [x] [Node.js](https://nodejs.org/)
 - [x] [TypeScript](https://www.typescriptlang.org/)
-- [x] [Styled Components](https://styled-components.com/)
-- [x] Inform others used in the project
+- [x] [tsx](https://github.com/esbuild-kit/tsx)
+- [x] [fastify](https://www.fastify.io/)
+- [x] [Prisma](https://www.prisma.io/)
+
+### Front-end Web
+
+- [x] [React](https://react.dev/)
+- [x] [Next.js](https://nextjs.org/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [tailwindcss](https://tailwindcss.com/)
+
+### Mobile
+
+- [x] [React Native](https://reactnative.dev/)
+- [x] [Expo](https://docs.expo.dev/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [NativeWind](https://www.nativewind.dev/)
+<!--
 
 ## 📂 Folder Structure
 
