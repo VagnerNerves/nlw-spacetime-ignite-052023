@@ -68,6 +68,8 @@ Describe what you learned and implemented in the project. -->
 - [x] [Expo](https://docs.expo.dev/)
 - [x] [TypeScript](https://www.typescriptlang.org/)
 - [x] [NativeWind](https://www.nativewind.dev/)
+- [x] [React Native SVG](https://github.com/software-mansion/react-native-svg)
+- [x] [React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer)
 <!--
 
 ## 📂 Folder Structure
