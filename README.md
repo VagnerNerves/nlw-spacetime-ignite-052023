@@ -52,6 +52,7 @@ Describe what you learned and implemented in the project. -->
 - [x] [tsx](https://github.com/esbuild-kit/tsx)
 - [x] [fastify](https://www.fastify.io/)
 - [x] [Prisma](https://www.prisma.io/)
+- [x] [zod](https://github.com/colinhacks/zod)
 
 ### Front-end Web
 
@@ -59,6 +60,7 @@ Describe what you learned and implemented in the project. -->
 - [x] [Next.js](https://nextjs.org/)
 - [x] [TypeScript](https://www.typescriptlang.org/)
 - [x] [tailwindcss](https://tailwindcss.com/)
+- [x] [Lucide](https://lucide.dev/docs/lucide-react)
 
 ### Mobile
 
