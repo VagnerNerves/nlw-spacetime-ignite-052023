@@ -22,8 +22,10 @@ app.register(memoriesRoutes)
 app
   .listen({
     port: 3333,
-    host: '127.0.0.1',
+    host: '0.0.0.0',
+    // cleahost: '127.0.0.1',
   })
   .then(() => {
-    console.log('🚀 HTTP server running on port http://127.0.0.1:3333')
+    console.log('🚀 HTTP server running on port http://0.0.0.0:3333')
+    // console.log('🚀 HTTP server running on port http://127.0.0.1:3333')
   })
