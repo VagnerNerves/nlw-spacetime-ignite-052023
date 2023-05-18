@@ -53,6 +53,8 @@ Describe what you learned and implemented in the project. -->
 - [x] [fastify](https://www.fastify.io/)
 - [x] [Prisma](https://www.prisma.io/)
 - [x] [zod](https://github.com/colinhacks/zod)
+- [x] [dotenv](https://github.com/motdotla/dotenv)
+- [x] [Axios](https://axios-http.com/ptbr/docs/intro)
 
 ### Front-end Web
 
@@ -61,6 +63,8 @@ Describe what you learned and implemented in the project. -->
 - [x] [TypeScript](https://www.typescriptlang.org/)
 - [x] [tailwindcss](https://tailwindcss.com/)
 - [x] [Lucide](https://lucide.dev/docs/lucide-react)
+- [x] [Axios](https://axios-http.com/ptbr/docs/intro)
+- [x] [jwt-decode](https://github.com/auth0/jwt-decode)
 
 ### Mobile
 
@@ -70,6 +74,10 @@ Describe what you learned and implemented in the project. -->
 - [x] [NativeWind](https://www.nativewind.dev/)
 - [x] [React Native SVG](https://github.com/software-mansion/react-native-svg)
 - [x] [React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer)
+- [x] [Expo AuthSession](https://docs.expo.dev/versions/latest/sdk/auth-session/)
+- [x] [Axios](https://axios-http.com/ptbr/docs/intro)
+- [x] [Expo SecureStore](https://docs.expo.dev/versions/latest/sdk/securestore/)
+- [x] [Expo Router](https://expo.github.io/router/docs/)
 <!--
 
 ## 📂 Folder Structure
