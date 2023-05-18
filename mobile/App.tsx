@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar'
 import { ImageBackground, Text, TouchableOpacity, View } from 'react-native'
+import * as SecureStore from 'expo-secure-store'
 
 import {
   useFonts,
@@ -15,6 +16,7 @@ import NLWLogo from './src/assets/nlw-spacetime-logo.svg'
 import { styled } from 'nativewind'
 import { makeRedirectUri, useAuthRequest } from 'expo-auth-session'
 import { useEffect } from 'react'
+import { api } from './src/lib/api'
 
 const StyledStripes = styled(Stripes)
 
@@ -32,7 +34,7 @@ export default function App() {
     BaiJamjuree_700Bold,
   })
 
-  const [request, response, signInWithGithub] = useAuthRequest(
+  const [, response, signInWithGithub] = useAuthRequest(
     {
       clientId: 'd44b8d029f2a078ed682',
       scopes: ['identity'],
@@ -53,7 +55,16 @@ export default function App() {
     if (response?.type === 'success') {
       const { code } = response.params
 
-      console.log(code)
+      api
+        .post('/register', { code })
+        .then((response) => {
+          const { token } = response.data
+
+          SecureStore.setItemAsync('token', token)
+        })
+        .catch((err) => {
+          console.error(err)
+        })
     }
   }, [response])
 
