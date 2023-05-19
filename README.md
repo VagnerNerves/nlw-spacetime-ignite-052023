@@ -55,6 +55,8 @@ Describe what you learned and implemented in the project. -->
 - [x] [zod](https://github.com/colinhacks/zod)
 - [x] [dotenv](https://github.com/motdotla/dotenv)
 - [x] [Axios](https://axios-http.com/ptbr/docs/intro)
+- [x] [@fastify/multipart](https://github.com/fastify/fastify-multipart)
+- [x] [@fastify/static](https://github.com/fastify/fastify-static)
 
 ### Front-end Web
 
@@ -65,6 +67,7 @@ Describe what you learned and implemented in the project. -->
 - [x] [Lucide](https://lucide.dev/docs/lucide-react)
 - [x] [Axios](https://axios-http.com/ptbr/docs/intro)
 - [x] [jwt-decode](https://github.com/auth0/jwt-decode)
+- [x] [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms)
 
 ### Mobile
 
