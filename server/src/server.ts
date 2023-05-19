@@ -34,7 +34,7 @@ app
   .listen({
     port: 3333,
     host: '0.0.0.0',
-    // cleahost: '127.0.0.1',
+    // host: '127.0.0.1',
   })
   .then(() => {
     console.log('🚀 HTTP server running on port http://0.0.0.0:3333')
