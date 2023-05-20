@@ -68,6 +68,8 @@ Describe what you learned and implemented in the project. -->
 - [x] [Axios](https://axios-http.com/ptbr/docs/intro)
 - [x] [jwt-decode](https://github.com/auth0/jwt-decode)
 - [x] [@tailwindcss/forms](https://github.com/tailwindlabs/tailwindcss-forms)
+- [x] [JavaScript Cookie](https://github.com/js-cookie/js-cookie)
+- [x] [Day.js](https://day.js.org/en/)
 
 ### Mobile
 
@@ -81,6 +83,8 @@ Describe what you learned and implemented in the project. -->
 - [x] [Axios](https://axios-http.com/ptbr/docs/intro)
 - [x] [Expo SecureStore](https://docs.expo.dev/versions/latest/sdk/securestore/)
 - [x] [Expo Router](https://expo.github.io/router/docs/)
+- [x] [Expo ImagePicker](https://docs.expo.dev/versions/latest/sdk/imagepicker/)
+- [x] [Day.js](https://day.js.org/en/)
 <!--
 
 ## 📂 Folder Structure
