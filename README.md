@@ -210,10 +210,11 @@ Start the server
 
 [![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
 [![Run in Insomnia](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-insomnia.svg)](https://insomnia.rest/run/?label=NAMEPROJECT&uri=LINK)
+-->
 
 ## 🌎 License
 
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details. -->
+This project is under the MIT license. See the [LICENSE](https://github.com/VagnerNerves/nlw-spacetime-ignite-052023/blob/main/LICENSE) file for more details.
 
 ## ✒ Author
 
